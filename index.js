@@ -7,6 +7,9 @@ function theBeatlesPlay(musicians, instruments) {
 }
 
 function johnLennonFacts() {
+  while ([condition]) {
+  [loopBody]
+}
 
 }
 
